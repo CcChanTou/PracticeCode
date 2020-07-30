@@ -28,6 +28,7 @@ int main()
 }
 */
 /* 标准答案写法 */
+/* if输出字符输入，else if输出第一个空格， 第二个空格开始被两个if过滤，用lastc标记，不需要太复杂的判断 */
 #include <stdio.h>
 #define NONBLANK '0'
 int main()
