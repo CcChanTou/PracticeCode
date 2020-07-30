@@ -1,0 +1,10 @@
+title：在vscode下写C代码并运行的准备工作（不包含debug）
+step 1.下载mingw并添加到系统环境
+step 2.下载vscode插件->code runner
+step 3.配置 code runner 
+       -> 勾选Ignore Selection
+       -> 勾选Run In Terminal
+
+参考连接：https://www.lagou.com/lgeduarticle/55816.html
+参考连接：https://blog.csdn.net/bat67/article/details/76095813
+
